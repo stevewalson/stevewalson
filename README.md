@@ -302,13 +302,6 @@
       title="Docker"
       width="36"
       height="36" /></a
-  ><a href="https://huggingface.co/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg"
-      alt="Hugging Face"
-      title="Hugging Face"
-      width="36"
-      height="36" /></a
   ><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg"
@@ -325,6 +318,7 @@
       height="36"
   /></a>
 </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stevewalson&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
