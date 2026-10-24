@@ -1,10 +1,10 @@
-# [![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello there:
+# [👋](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello there:
 
 🔭 I’m currently working on more features for my super Telegram bot<br>👯 I’m looking to collaborate on Web3 Projects<br>🤝 I’m looking for help with sleep issues haha<br>🌱 I’m currently learning Rust<br>💬 Ask me about Tech and NFTs<br>⚡ Fun fact, I'm a workaholic extrovert
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/820063980462014465) [![Instagram](https://walson.dev/assets/instagram.svg)](https://instagram.com/steve_walson) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/steve_walson)
+[![Discord](https://walson.dev/assets/discord.svg)](https://discordapp.com/users/820063980462014465) [![Instagram](https://walson.dev/assets/instagram.svg)](https://instagram.com/steve_walson) [![X](https://walson.dev/assets/x_logo.svg)](https://x.com/steve_walson) [![Reddit](https://walson.dev/assets/reddit.svg)](https://www.reddit.com/user/stevewalson)
 
 # 💻 Tech Stack:
 
