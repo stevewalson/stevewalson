@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Discord](https://s.magecdn.com/social/32w/mw-discord.png)](https://discordapp.com/users/820063980462014465) [![Instagram](https://s.magecdn.com/social/32w/mw-instagram.png)](https://instagram.com/steve_walson) [![X](https://s.magecdn.com/social/32w/mw-x.png)](https://x.com/steve_walson) [![Reddit](https://s.magecdn.com/social/32w/mw-reddit.svg)](https://www.reddit.com/user/stevewalson)
+[![Discord](https://s.magecdn.com/social/32w/mw-discord.png)](https://discordapp.com/users/820063980462014465) [![Instagram](https://s.magecdn.com/social/32w/mw-instagram.png)](https://instagram.com/steve_walson) [![X](https://s.magecdn.com/social/32w/mw-x.png)](https://x.com/steve_walson) [![Reddit](https://s.magecdn.com/social/32w/mw-reddit.png)](https://www.reddit.com/user/stevewalson)
 
 # 💻 Tech Stack:
 
