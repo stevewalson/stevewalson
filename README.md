@@ -1,4 +1,4 @@
-# [👋](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello there:
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello there:
 
 🔭 I’m currently working on more features for my super Telegram bot<br>👯 I’m looking to collaborate on Web3 Projects<br>🤝 I’m looking for help with sleep issues haha<br>🌱 I’m currently learning Rust<br>💬 Ask me about Tech and NFTs<br>⚡ Fun fact, I'm a workaholic extrovert
 
