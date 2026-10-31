@@ -1,6 +1,6 @@
 # 🧔🏼  I'm a workaholic extrovert.
 
-## 🌐 Socials: [![Discord](https://s.magecdn.com/social/32w/mw-discord.png)](https://discordapp.com/users/820063980462014465) [![Instagram](https://s.magecdn.com/social/32w/mw-instagram.png)](https://instagram.com/steve_walson) [![X](https://s.magecdn.com/social/32w/mw-x.png)](https://x.com/steve_walson) [![Reddit](https://s.magecdn.com/social/32w/mw-reddit.png)](https://www.reddit.com/user/stevewalson)
+[![Discord](https://s.magecdn.com/social/32w/mw-discord.png)](https://discordapp.com/users/820063980462014465) [![Instagram](https://s.magecdn.com/social/32w/mw-instagram.png)](https://instagram.com/steve_walson) [![X](https://s.magecdn.com/social/32w/mw-x.png)](https://x.com/steve_walson) [![Reddit](https://s.magecdn.com/social/32w/mw-reddit.png)](https://www.reddit.com/user/stevewalson)
 
 
 # 💻 Tech Stack:
@@ -328,8 +328,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=stevewalson&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
+## 💰 You can donate
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" alt="Solana" title="Solana" width="36" height="36" /> walson.sns
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/stevewalson)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Solana" title="Solana" width="36" height="36" /> walson.eth
