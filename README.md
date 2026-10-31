@@ -329,6 +329,6 @@
 [![](https://visitcount.itsvg.in/api?id=stevewalson&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can donate
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" alt="Solana" title="Solana" width="36" height="36" /> walson.sns
+# <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" alt="Solana" title="Solana" width="36" height="36" /> <p>walson.sns</p>
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Solana" title="Solana" width="36" height="36" /> walson.eth
+# <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Solana" title="Solana" width="36" height="36" />  <p>walson.eth</p>
